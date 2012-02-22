@@ -9,10 +9,9 @@ Group:            Sciences/Mathematics
 License:          Apache License (== 2.0)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
-Requires:         R-iterators R-codetools R-utils 
-Requires:         R-randomForest 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-iterators R-codetools R-utils
-BuildRequires:    R-randomForest 
+Requires:         R-iterators R-codetools R-utils R-randomForest
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-iterators
+BuildRequires:    R-codetools R-utils R-randomForest
 
 %description
 Support for the foreach looping construct.  Foreach is an idiom that
