@@ -1,6 +1,8 @@
 %global packname  foreach
 %global rlibdir  %{_libdir}/R/library
 
+%define debug_package %{nil}
+
 Name:             R-%{packname}
 Version:          1.3.2
 Release:          1
