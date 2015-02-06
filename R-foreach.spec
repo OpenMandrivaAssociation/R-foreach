@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          1.4.1
-Release:          1
+Release:          2
 Summary:          Foreach looping construct for R
 Group:            Sciences/Mathematics
 License:          Apache License (== 2.0)
