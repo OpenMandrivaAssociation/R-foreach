@@ -9,7 +9,7 @@ Release:          2
 Summary:          Foreach looping construct for R
 Group:            Sciences/Mathematics
 License:          Apache License (== 2.0)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/foreach_1.4.1.tar.gz
 Requires:         R-iterators R-codetools R-utils 
 Requires:         R-randomForest 
